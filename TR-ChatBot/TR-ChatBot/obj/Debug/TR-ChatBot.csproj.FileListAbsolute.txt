@@ -1,0 +1,42 @@
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe.config
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.pdb
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.IncomingChatUserControl.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.OutGoingChatUserControl.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChatBoatForm.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.Properties.Resources.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csproj.GenerateResource.cache
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.exe
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.pdb
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe.config
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.pdb
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csprojAssemblyReference.cache
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.IncomingChatUserControl.resources
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.OutGoingChatUserControl.resources
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChatBoatForm.resources
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.Properties.Resources.resources
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csproj.GenerateResource.cache
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.exe
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.pdb
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\6112214\Downloads\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csproj.CopyComplete
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe.config
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.exe
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\TR-ChatBot.pdb
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csprojAssemblyReference.cache
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.IncomingChatUserControl.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChataBotBLL.OutGoingChatUserControl.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.ChatBoatForm.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR_ChatBot.Properties.Resources.resources
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csproj.GenerateResource.cache
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.csproj.CopyComplete
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.exe
+C:\Users\6113557\OneDrive - Thomson Reuters Incorporated\Desktop\TRRRRR\TR-ChatBot\TR-ChatBot\TR-ChatBot\obj\Debug\TR-ChatBot.pdb
